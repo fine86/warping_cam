@@ -1,0 +1,4 @@
+<launch>
+  <node name="warping_cam" type="warping_cam_node" pkg="warping_cam" output="screen">
+  </node>
+</launch>
